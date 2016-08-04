@@ -1,5 +1,6 @@
-# generator-FTD-springboot [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-FTD-springboot 
 > A best practice for yintai micro service project based on springboot.
+>
 > Dota打多了，把generator-yintai-springboot名字换成generator-FTD-springboot，O(∩_∩)O~！！！
 > 原版地址https://github.com/yintai/generator-yintai-springboot
 
